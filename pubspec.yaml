@@ -1,0 +1,6 @@
+name: nanite
+version: 0.0.1
+description: A webserver framework for simple websites
+dependencies:
+  jaded: 0.1.9
+  crypto: 2.0.1
